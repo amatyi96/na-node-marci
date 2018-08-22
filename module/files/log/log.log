@@ -1,0 +1,16 @@
+Wed Aug 22 2018 15:26:25 GMT+0200 (CEST) GET url: /
+Wed Aug 22 2018 15:26:25 GMT+0200 (CEST) GET url: /favicon.ico
+Wed Aug 22 2018 15:26:33 GMT+0200 (CEST) GET url: /login
+Wed Aug 22 2018 15:26:42 GMT+0200 (CEST) POST url: /login
+Wed Aug 22 2018 15:26:52 GMT+0200 (CEST) GET url: /api/products
+Wed Aug 22 2018 15:26:56 GMT+0200 (CEST) GET url: /api/product
+Wed Aug 22 2018 15:27:07 GMT+0200 (CEST) GET url: /api/products.json
+Wed Aug 22 2018 15:27:39 GMT+0200 (CEST) GET url: /api/products/json
+Wed Aug 22 2018 15:27:44 GMT+0200 (CEST) GET url: /api/products/1
+Wed Aug 22 2018 15:28:01 GMT+0200 (CEST) GET url: /api/products/1
+Wed Aug 22 2018 15:28:02 GMT+0200 (CEST) GET url: /api/products/1
+Wed Aug 22 2018 15:28:22 GMT+0200 (CEST) GET url: /api/products/1
+Wed Aug 22 2018 15:28:24 GMT+0200 (CEST) GET url: /api/products/1
+Wed Aug 22 2018 15:28:46 GMT+0200 (CEST) GET url: /
+Wed Aug 22 2018 15:28:50 GMT+0200 (CEST) GET url: /
+Wed Aug 22 2018 15:28:52 GMT+0200 (CEST) GET url: /login
