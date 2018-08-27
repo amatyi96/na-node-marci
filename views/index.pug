@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  +button-block('primary', 'Tovább')
+
+block scripts
+  script(src="javascripts/index.js")
