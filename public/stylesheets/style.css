@@ -2,6 +2,11 @@ body {
   padding: 50px;
 }
 
+.card-login {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
 .main {
   margin-top: 25px;
 }
