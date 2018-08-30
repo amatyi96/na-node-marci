@@ -2,10 +2,12 @@ extends layout
 
 block content
   .card.card-login
-    .card-header
-      | #{title}
+    .card-header #{title}
     .card-body
-      .form(mehtod='post' action='/login')
+      if fail
+        .alert.alert-danger
+          strong Sikertelen belépés!
+      form(method='post' action='/login')
         .form-group
           label(for="email") Email
           input#email.form-control(type="email", name="email")
