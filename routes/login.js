@@ -21,8 +21,7 @@ router.post('/', (req, res, next) => {
                     .redirect('/');
             } else {
                 res.render('login', {title: 'Belépés', fail: true});
-            }
-            
+            }            
     });
 }); 
     

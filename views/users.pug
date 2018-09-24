@@ -1,4 +1,9 @@
 extends layout
 
 block content
-  h1= title
+  #colorPicker
+  div
+    input#jqxButton(style='margin-top: 20px;', type='button', value='Get the color')
+
+block scripts 
+  script(src='javascripts/colorPicker.js')
